@@ -1,2 +1,2 @@
-# Synthetic-Document-Generator-
+# Synthetic-Document-Generator
 Synthetic Document Generator 
